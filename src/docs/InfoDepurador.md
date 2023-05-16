@@ -1,0 +1,3 @@
+La clase "Depurador" es una clase de utilidades que proporciona un único método llamado "formateador". A continuación, se explica el método en español:
+
+* **Método "formateador":** Este método recibe una palabra como parámetro y devuelve una versión depurada de la misma. Primero, convierte la palabra a minúsculas utilizando el método "toLowerCase()" de la clase String. Luego, elimina los espacios en blanco al inicio y al final de la palabra utilizando el método "trim()" de la clase String. Finalmente, devuelve la palabra depurada.
